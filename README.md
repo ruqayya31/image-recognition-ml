@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 1. Clone the repository
 bash
-git clone https://github.com/yourusername/image-recognition-ml.git
+git clone https://github.com/ruqayya31/image-recognition-ml.git
 cd image-recognition-ml
 
 
